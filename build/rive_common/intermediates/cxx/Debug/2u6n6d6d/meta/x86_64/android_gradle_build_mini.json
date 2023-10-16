@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/mac/.pub-cache/hosted/pub.dev/rive_common-0.2.7/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mac/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/mac/.pub-cache/hosted/pub.dev/rive_common-0.2.7/android/.cxx/Debug/2u6n6d6d/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mac/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/mac/.pub-cache/hosted/pub.dev/rive_common-0.2.7/android/.cxx/Debug/2u6n6d6d/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "rive_text::@6890427a1f51a3e7e1df": {
+      "artifactName": "rive_text",
+      "abi": "x86_64",
+      "output": "/Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/build/rive_common/intermediates/cxx/Debug/2u6n6d6d/obj/x86_64/librive_text.so",
+      "runtimeFiles": []
+    }
+  }
+}

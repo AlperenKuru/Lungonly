@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseMessaging.build/module.modulemap \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenManager.m \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenManager.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FirebaseMessaging/FIRMessaging.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseInstallations/Source/Library/Private/FirebaseInstallationsInternal.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseInstallations.build/module.modulemap \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/Target\ Support\ Files/FirebaseInstallations/FirebaseInstallations-umbrella.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FirebaseInstallations.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallations.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsAuthTokenResult.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingConstants.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingDefines.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingLogger.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingCode.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/NSError+FIRMessaging.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingAuthKeychain.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingAuthService.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingCheckinService.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingUtilities.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingCheckinPreferences.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingCheckinStore.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenDeleteOperation.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenOperation.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenFetchOperation.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenInfo.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingAPNSInfo.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenStore.h

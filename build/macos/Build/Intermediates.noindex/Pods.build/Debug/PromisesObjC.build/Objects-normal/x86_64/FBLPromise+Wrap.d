@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/build/macos/Build/Intermediates.noindex/Pods.build/Debug/PromisesObjC.build/module.modulemap \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/PromisesObjC/Sources/FBLPromises/FBLPromise+Wrap.m \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/mac/Documents/GitHub/GodsqueDevBranchOrganization/DevLungonly/macos/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h
