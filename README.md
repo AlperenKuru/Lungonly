@@ -26,9 +26,9 @@ Bu projeyi yerel olarak çalıştırmak için şunlara ihtiyacınız vardır:
 
 1. Bu depoyu klonlayın:
   git clone https://github.com/AlperenKuru/Lungonly.git
-2.Proje dizinine gidin:
+2. Proje dizinine gidin:
   cd flutter/Lungonly
-3.Gerekli paketleri yükleyin:
+3. Gerekli paketleri yükleyin:
   flutter pub get
 4. Uygulamayı çalıştırın:
    flutter run
